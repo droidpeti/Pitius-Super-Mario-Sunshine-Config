@@ -71,6 +71,7 @@ This setup relies on the incredible work of the GameCube modding community.
 * Disable Water Refraction (1inf)
 * Mario Never Sleeps / Insomnia Mode (Ralf)
 * Mario & FLUDD Invisible (Ralf)
+* Remove DEBS Alerts (JoshuaMK)
 
 **Gameplay Tools:**
 * **Position Save/Load Tool:** Dan Salvato
