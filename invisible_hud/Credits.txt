@@ -2,5 +2,7 @@ Pack made by: Sheldon Sharpe
 
 tex1_64x64_3b1c297f9f72825b_3.png
 tex1_38x46_c26a83dda44dc8b6_5.png
+tex1_18x36_2bec93dc40b70867_5.png
+tex1_68x28_595e067e973ac06d_5.png
 
 added by me.
