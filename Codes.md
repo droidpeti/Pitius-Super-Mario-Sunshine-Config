@@ -258,3 +258,13 @@ e2000001 00000000
 ~~~
 04142998 48000078
 ~~~
+
+# Used AR Codes
+
+## Breath Underwater (Improved)
+* **Creator:** Ralf
+~~~
+4240E0E0 0096410F
+4240E0E0 0097FFF6
+4240E0E0 09227FFF
+~~~
