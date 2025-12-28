@@ -186,7 +186,7 @@ E2000001 80008000
 
 ## Moon Jump
 * **Creator:** Mathew_Wi
-* **Controls:** Hold `B` (While in Air)
+* **Controls:** Hold `A`
 
 ~~~
 28404486 FEFF0100
